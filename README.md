@@ -1,6 +1,6 @@
 # Machine-translation using huggingface and streamlit
 
-![Machine learning expert and Data Scientist](https://github.com/shahzaibhamid/shahzaibhamid/blob/main/0_3HNWowLnPz9sqadH.jpg)
+![Machine learning expert and Data Scientist](https://github.com/shahzaibhamid/machine-translation/blob/main/MT.png)
 
 ## This repository contains machine translation with the help of transformers
 
