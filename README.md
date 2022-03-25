@@ -1,5 +1,7 @@
 # Machine-translation using huggingface and streamlit
 
+![Machine learning expert and Data Scientist](https://github.com/shahzaibhamid/shahzaibhamid/blob/main/0_3HNWowLnPz9sqadH.jpg)
+
 ## This repository contains machine translation with the help of transformers
 
 To get started first you need to install the requirements from the requirement file,
