@@ -1,4 +1,4 @@
-# machine-translation using huggingface and streamlit
+# Machine-translation using huggingface and streamlit
 
 ## This repository contains machine translation with the help of transformers
 
