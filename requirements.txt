@@ -1,0 +1,6 @@
+Pytorch
+streamlit
+transformers
+ipywidgets
+tqdm
+sentencepiece
